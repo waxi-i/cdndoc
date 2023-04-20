@@ -35,11 +35,6 @@
         "disqus": {
             "shortName": "gitbookuse"
         },
-        "fontsettings": {
-            "theme": "sepia",
-            "family": "serif",
-            "size": 1
-        },
         "github": {
             "url": "https://github.com/"
         },
