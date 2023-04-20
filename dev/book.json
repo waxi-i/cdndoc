@@ -16,10 +16,25 @@
         "website": "styles/website.css"
     },
     "plugins": [
+        "-lunr",
+        "-search",
+        "search-plus",
+        "back-to-top-button",
+        "expandable-chapters-small",
+        "insert-logo",
+        "toggle-chapters",
+        "hide-element",
         "disqus",
-        "github"
+        "github",
+        "advanced-emoji",
+        "splitter",
+        "ga",
+        "copy-code-button"
     ],
     "pluginsConfig": {
+        "disqus": {
+            "shortName": "gitbookuse"
+        },
         "fontsettings": {
             "theme": "sepia",
             "family": "serif",
@@ -27,6 +42,12 @@
         },
         "github": {
             "url": "https://github.com/"
+        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        },
+        "ga": {
+            "token": "UA-XXXX-Y"
         }
     }
 }
