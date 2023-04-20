@@ -1,18 +1,18 @@
 {
-    "title": "Blankj's Glory",
-    "author": "Blankj",
-    "description": "select * from learn",
+    "title": "产品文档",
+    "author": "Life",
+    "description": "记录配置和一些插件的使用",
     "language": "zh-hans",
     "gitbook": "3.2.3",
-    "styles": {
-        "website": "./styles/website.css"
-    },
     "structure": {
         "readme": "README.md"
     },
     "links": {
         "sidebar": {
-            "xxx": "https://xxx"
+            "Home": "https://baidu.com"
         }
+    },
+    "styles": {
+        "website": "styles/website.css"
     }
 }
