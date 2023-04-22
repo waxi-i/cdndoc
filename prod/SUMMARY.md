@@ -4,7 +4,7 @@
 
 ## CDN-新版本各平台客户端使用教程
 
-* [新版本产品文档](cdn-xin-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/xin-ban-ben-chan-pin-wen-dang.md)
+* [新版本产品文档，使用前阅读说明](cdn-xin-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/xin-ban-ben-chan-pin-wen-dang-shi-yong-qian-yue-du-shuo-ming.md)
 
 ## 常用工具官方网站
 
