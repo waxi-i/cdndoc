@@ -9,7 +9,7 @@
     },
     "links": {
         "sidebar": {
-            "Home": "https://baidu.com"
+            "Home": "#"
         }
     },
     "styles": {
