@@ -19,21 +19,16 @@
         "-lunr",
         "-search",
         "search-plus",
-        "back-to-top-button",
-        "expandable-chapters-small"
+        "expandable-chapters-small",
+        "copy-code-button",
+        "versions-select"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "gitbookuse"
         },
-        "github": {
-            "url": "https://github.com/"
-        },
         "hide-element": {
             "elements": [".gitbook-link"]
-        },
-        "ga": {
-            "token": "UA-XXXX-Y"
         }
     }
 }
