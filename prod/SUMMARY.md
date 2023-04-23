@@ -13,9 +13,9 @@
 ## CDN-旧版本各平台客户端使用教程
 
 * [旧版本产品文档，使用前阅读说明](cdn-jiu-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/jiu-ban-ben-chan-pin-wen-dang-shi-yong-qian-yue-du-shuo-ming.md)
+* [常见问题](cdn-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/chang-jian-wen-ti.md)
 * [Windows客户端使用教程](cdn-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/windows-ke-hu-duan-shi-yong-jiao-cheng.md)
 * [安卓手机客户端](cdn-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/an-zhuo-shou-ji-ke-hu-duan.md)
 * [苹果电脑、mac客户端](cdn-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/ping-guo-dian-nao-mac-ke-hu-duan.md)
-* [苹果手机、ios客户端](cdn-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/ping-guo-shou-ji-ios-ke-hu-duan/README.md)
-  * [​苹果id-美国id](cdn-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/ping-guo-shou-ji-ios-ke-hu-duan/ping-guo-id-mei-guo-id.md)
-* [常见问题](cdn-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/chang-jian-wen-ti.md)
+* [苹果手机、ios客户端](cdn-jiu-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/ping-guo-shou-ji-ios-ke-hu-duan.md)
+* [​苹果id-美国id](cdn-jiu-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/ping-guo-id-mei-guo-id.md)
