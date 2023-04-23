@@ -9,7 +9,7 @@
 
 ## 常用工具官方网站
 
-* [Telegram](chang-yong-gong-ju-guan-fang-wang-zhan/page-2.md)
+* [常用三方工具列表](chang-yong-gong-ju-guan-fang-wang-zhan/page-2.md)
 
 ## CDN-旧版本各平台客户端使用教程
 
