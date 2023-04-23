@@ -21,7 +21,8 @@
         "search-plus",
         "expandable-chapters-small",
         "copy-code-button",
-        "versions-select"
+        "versions-select",
+        "hide-element"
     ],
     "pluginsConfig": {
         "disqus": {
