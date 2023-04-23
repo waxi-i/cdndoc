@@ -2,6 +2,9 @@
 
 set -ue
 
+git fetch origin gitbook
+git pull origin gitbook
+
 cd /apps/v2doc
 
 gitbook build ./prod ./docs
