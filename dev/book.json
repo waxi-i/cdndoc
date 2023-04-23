@@ -20,16 +20,7 @@
         "-search",
         "search-plus",
         "back-to-top-button",
-        "expandable-chapters-small",
-        "insert-logo",
-        "toggle-chapters",
-        "hide-element",
-        "disqus",
-        "github",
-        "advanced-emoji",
-        "splitter",
-        "ga",
-        "copy-code-button"
+        "expandable-chapters-small"
     ],
     "pluginsConfig": {
         "disqus": {
