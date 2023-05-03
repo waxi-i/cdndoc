@@ -8,9 +8,11 @@
 
 **1、获取Windows客户端**
 
-[**点我下载软件Windows32位客户端（不懂选32位）**](http://v.g9a.me/.doc/cfw32.7z)
+[**点我下载软件Windows32位客户端（不懂选32位）**](http://159.138.90.192/.doc/cfw32.7z)
 
-[**点我下载软件Windows64位客户端**](http://v.g9a.me/.doc/cfw64.7z)
+[**http://159.138.90.192/.doc/cfw64.7z**](http://159.138.90.192/.doc/cfw64.7z)
+
+[**点我下载软件Windows64位客户端**](http://159.138.90.192/.doc/cfw64.7z)
 
 下载后，解压后，双击打开 **【Clash for Windows】**
 
