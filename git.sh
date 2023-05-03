@@ -7,7 +7,7 @@ git pull origin gitbook
 
 cd /apps/v2doc
 
-gitbook build ./prod ./docs
+docker exec -it node gitbook build /apps/v2doc/prod/ /apps/v2doc/docs/
 
 git add .
 git commit -m "$(date +%FT%T)"
