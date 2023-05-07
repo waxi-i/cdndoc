@@ -2,7 +2,7 @@
 
 注意：不可直接在微信里打开，需要复制地址到自带浏览器打开
 
-[苹果id-美国id](../cdn-jiu-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/ping-guo-id-mei-guo-id.md)
+[苹果id-美国id](../cdn1-jiu-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/ping-guo-id-mei-guo-id.md)
 
 ```
 账户：wangh113@hotmail.com
