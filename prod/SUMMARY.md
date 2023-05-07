@@ -6,6 +6,7 @@
 
 * [新版本产品文档，使用前阅读说明](cdn-xin-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/xin-ban-ben-chan-pin-wen-dang-shi-yong-qian-yue-du-shuo-ming.md)
 * [Windows客户端配置文档](cdn-xin-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/windows-ke-hu-duan-pei-zhi-wen-dang.md)
+* [Android客户端](cdn-xin-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/android-ke-hu-duan.md)
 
 ## 常用工具官方网站
 
