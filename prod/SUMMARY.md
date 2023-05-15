@@ -4,6 +4,7 @@
 
 ## cdn2-新版本各平台客户端使用教程
 
+* [新版本常见问题](cdn2-xin-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/xin-ban-ben-chang-jian-wen-ti.md)
 * [cdn2产品文档](cdn2-xin-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/xin-ban-ben-chan-pin-wen-dang-shi-yong-qian-yue-du-shuo-ming.md)
 * [cdn2常见问题](cdn2-xin-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/cdn2-chang-jian-wen-ti.md)
 * [Android客户端](cdn2-xin-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/android-ke-hu-duan.md)
