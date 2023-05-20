@@ -17,3 +17,11 @@
 4、苹果手机客户端
 
 > 打开Shadowrocket，需要先断开Shadowrocket的连接，更新配置信息（点击刷新按钮，会提示已成功更新），点击连通性测试，选择一个绿色数值最低的节点重新连接，访问 [google.com](https://google.com) 或者 [faccebook.com](https://www.facebook.com/) 验证是否成功
+
+上述不能解决您的问题的话
+
+后台地址：https://cdn.kjzd.top
+
+备用：http://cdn2.kjzd.top:31000&#x20;
+
+果不可用尝试重新导入配置一次即可
