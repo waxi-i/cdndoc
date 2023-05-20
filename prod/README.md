@@ -24,4 +24,4 @@
 
 备用：http://cdn2.kjzd.top:31000&#x20;
 
-果不可用尝试重新导入配置一次即可
+登录后台地址，旧配置删除，重新导入一次配置就可以了，访问 [google.com](https://google.com) 或者 [faccebook.com](https://www.facebook.com/) 验证是否成功
