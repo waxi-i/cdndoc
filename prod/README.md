@@ -8,4 +8,4 @@
 
 3、苹果电脑客户端：点击屏幕上方菜单栏Clash软件，需要先关闭连接（取消-设置为系统代理按钮），更新配置信息（点击配置-托管配置-点击更新-等待几分钟），在重新连接（点击-设置为系统代理按钮），访问 [google.com](https://google.com) 或者 [faccebook.com](https://www.facebook.com/) 验证是否成功
 
-4、苹果手机客户端：打开Shadowrocket，需要先断开Shadowrocket的连接，更新配置信息（点击刷新按钮，会提示已成功更新），选择一个绿色数值最低的节点重新连接，访问 [google.com](https://google.com) 或者 [faccebook.com](https://www.facebook.com/) 验证是否成功
+4、苹果手机客户端：打开Shadowrocket，需要先断开Shadowrocket的连接，更新配置信息（点击刷新按钮，会提示已成功更新），点击连通性测试，选择一个绿色数值最低的节点重新连接，访问 [google.com](https://google.com) 或者 [faccebook.com](https://www.facebook.com/) 验证是否成功
