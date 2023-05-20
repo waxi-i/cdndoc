@@ -20,8 +20,8 @@
 
 上述不能解决您的问题的话
 
-后台地址：https://cdn.kjzd.top
+后台地址：[https://cdn.kjzd.top](https://cdn.kjzd.top)
 
-备用：http://cdn2.kjzd.top:31000&#x20;
+备用：[http://cdn2.kjzd.top:31000](http://cdn2.kjzd.top:31000)
 
 登录后台地址，旧配置删除，重新导入一次配置就可以了，访问 [google.com](https://google.com) 或者 [faccebook.com](https://www.facebook.com/) 验证是否成功
