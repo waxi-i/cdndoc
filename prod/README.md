@@ -8,9 +8,7 @@
 
 2、安卓客户端
 
-{% hint style="info" %}
-打开Clash软件，需要先关闭Clash的连接，更新配置（点击配置-左上角有个刷新按钮-点击刷新），等待一会，配置文件后面的状态变为近期就说明成功，返回上一层，重新运行，访问 [google.com](https://google.com) 或者 [faccebook.com](https://www.facebook.com/) 验证是否成功
-{% endhint %}
+> 打开Clash软件，需要先关闭Clash的连接，更新配置（点击配置-左上角有个刷新按钮-点击刷新），等待一会，配置文件后面的状态变为近期就说明成功，返回上一层，重新运行，访问 [google.com](https://google.com) 或者 [faccebook.com](https://www.facebook.com/) 验证是否成功
 
 3、苹果电脑客户端
 
