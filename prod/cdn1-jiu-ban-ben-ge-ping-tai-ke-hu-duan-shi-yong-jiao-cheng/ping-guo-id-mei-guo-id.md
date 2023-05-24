@@ -28,4 +28,8 @@ PS：请注意显示要更新App的，直接卸载原来的App后重新下载！
 
 [图文教程](https://img.alicdn.com/imgextra/i4/133717234482/O1CN010G1PUY1iynslxODJT\_!!133717234482.jpg)
 
-账号：wangh113@hotmail.com密码：Aa112211
+账户：wangh113@hotmail.com
+
+备用账户：canc191@hotmail.com
+
+密码都是：Aa112211
