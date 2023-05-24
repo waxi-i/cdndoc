@@ -22,5 +22,5 @@
 * [Windows客户端使用教程](cdn1-jiu-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/windows-ke-hu-duan-shi-yong-jiao-cheng.md)
 * [安卓手机客户端](cdn1-jiu-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/an-zhuo-shou-ji-ke-hu-duan.md)
 * [苹果电脑、mac客户端](cdn1-jiu-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/ping-guo-dian-nao-mac-ke-hu-duan.md)
-* [苹果手机、ios客户端](cdn1-jiu-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/ping-guo-shou-ji-ios-ke-hu-duan.md)
 * [​苹果id-美国id](cdn1-jiu-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/ping-guo-id-mei-guo-id.md)
+* [苹果手机、ios客户端](cdn1-jiu-ban-ben-ge-ping-tai-ke-hu-duan-shi-yong-jiao-cheng/ping-guo-shou-ji-ios-ke-hu-duan.md)
