@@ -1,7 +1,5 @@
 # 👋 产品文档
 
-目前新版本已经扩容节点，需要您这边手动更新一下配置信息（推荐每次启动代理的时候都执行一次，保证配置信息是最新的），步骤如下
-
 1、win客户端
 
 > 打开右下角小图标Clash软件，需要先关闭系统代理（常规-系统代理-点击关闭），更新配置信息（配置-点击全部更新），回到常规，重新打开系统代理（常规-系统代理-打开），访问 [google.com](https://google.com) 或者 [faccebook.com](https://www.facebook.com/) 验证是否成功
@@ -24,4 +22,4 @@
 
 备用：[http://cdn2.kjzd.top:31000](http://cdn2.kjzd.top:31000)
 
-登录后台地址，旧配置删除，重新导入一次配置就可以了，访问 [google.com](https://google.com) 或者 [faccebook.com](https://www.facebook.com/) 验证是否成功
+在邮件里面找到账户信息并登录后台地址，删除旧配置，然后从步骤2开始导入一次配置，访问 [google.com](https://google.com) 或者 [faccebook.com](https://www.facebook.com/) 验证是否成功，就可以了
